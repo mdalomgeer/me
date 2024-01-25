@@ -1,5 +1,8 @@
-# Data Scientist
+# Research Assistant
 
+**Address:** ITE Building, 1000 Hilltop Circle, Baltimore, MD21250  
+**Email:** [mdalomh1@umbc.edu](mailto:mdalomh1@umbc.edu)  
+**Profiles:** [Google Scholar](https://scholar.google.com/citations?user=bftKphkAAAAJ&hl=en&authuser=1) | [GitHub](https://github.com/mdalomgeer) | [in](https://www.linkedin.com/in/alomgeer/) 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
