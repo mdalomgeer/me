@@ -125,27 +125,21 @@ _“Pursuing innovation and excellence in AI for a better tomorrow.”_
 </p>
 <hr>
 <h1 align="center">Relevant Courses</h1>
-<hr>
+
 <p align="justify">
-
-
 The following is a list of specialized courses I have undertaken that have equipped me with a solid foundation and advanced knowledge in various aspects of computer science and data analysis:
-
-- **Deep Learning**: Delving into neural networks, backpropagation, and the concepts that drive contemporary AI.
-  
-- **Natural Language Processing**: Studying the interaction between computers and human language, including speech and text processing.
-  
-- **Consumer Health Informatics**: Exploring the role of information technology in healthcare from a consumer perspective.
-  
-- **Human-Computer Interaction**: Understanding the design and use of computer technology, focusing on the interfaces between people and computers.
-  
-- **Data Mining**: Gaining insights into the process of discovering patterns and relationships in large datasets.
-  
-- **Causal AI**: Investigating the use of AI for understanding and inferring causation rather than just correlations.
-  
-- **Data Structures & Algorithms**: Mastering the fundamentals of data organization, manipulation, and the algorithms that operate on them.
-
 </p>
+
+<ul>
+  <li><p align="justify"><strong>Deep Learning:</strong> Understanding the intricacies of neural networks, backpropagation, and the concepts driving contemporary AI.</p></li>
+  <li><p align="justify"><strong>Natural Language Processing:</strong> Exploring the complex interactions between computers and human language, encompassing both speech and text processing.</p></li>
+  <li><p align="justify"><strong>Consumer Health Informatics:</strong> Examining the intersection of information technology and healthcare from a consumer perspective.</p></li>
+  <li><p align="justify"><strong>Human-Computer Interaction:</strong> Studying the principles of designing intuitive user interfaces and improving the interaction between people and computers.</p></li>
+  <li><p align="justify"><strong>Data Mining:</strong> Acquiring skills in uncovering patterns and extracting meaningful insights from large datasets.</p></li>
+  <li><p align="justify"><strong>Causal AI:</strong> Investigating advanced AI techniques for determining causation rather than mere correlation.</p></li>
+  <li><p align="justify"><strong>Data Structures & Algorithms:</strong> Gaining a deep understanding of efficient data organization, manipulation, and the algorithms that process them.</p></li>
+</ul>
+
 
 <h1 align="center">List of Publications</h1>
 <hr>
