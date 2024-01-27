@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+### Welcome to My Portfolio
 
 ## Md Alomgeer Hussein, Ph.D. Researcher
 _Specializing in Natural Language Processing (NLP), Deep Learning (DL), Generative AI, and Health-Large Language Models (Health-LLM)_
@@ -103,7 +103,7 @@ _“Pursuing innovation and excellence in AI for a better tomorrow.”_
 <hr>
 
 <h1 align="center">Project Experience</h1>
-<hr>
+
 <h2>UMBC - Advancing Understanding of Anomalous Melt Events over the Antarctic Sea Ice</h2>
 <p align="justify">
   <b>Overview:</b> Investigate anomalous melting events in the Antarctic Sea ice using convolutional neural networks (CNN) and grid-wise matrix profile (MPF) method. <b>Duration:</b> 2000-2023 <b>Key Contributions:</b> Introduced negative max-pooling in CNN, identified spatiotemporal discord events, emphasized on dynamics of sea ice retreat.
@@ -140,9 +140,9 @@ The following is a list of specialized courses I have undertaken that have equip
   <li><p align="justify"><strong>Data Structures & Algorithms:</strong> Gaining a deep understanding of efficient data organization, manipulation, and the algorithms that process them.</p></li>
 </ul>
 
-
-<h1 align="center">List of Publications</h1>
 <hr>
+<h1 align="center">List of Publications</h1>
+
 <ol>
   <li><p align="justify">"Patient-facing AI: Current Status, Challenges, and Opportunities – A Systematic Review." (Manuscript)</p></li>
   <li><p align="justify">"Exploring the Potential of Large Language Models to Support Patients in Understanding and Using Their Test Results." (Manuscript)</p></li>
