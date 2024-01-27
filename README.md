@@ -77,8 +77,8 @@ A Graph-Based Gaussian Naive Bayes has been proposed for the CAN Bus Intrusion D
 2. "Exploring the Potential of Large Language Models to Support Patients in Understanding and Using Their Test
 Results." (Manuscript)
 
-3. "A Study on Tiredness Measurement using Computer Vision." Journal of the Institute of Industrial Applications Engineers Vol.7, No.4 (2019) pp.110–117. ([Link](https://www.researchgate.net/publication/338919758_A_Study_on_Tiredness_Measurement_using_Computer_Vision))
+3. "A Study on Tiredness Measurement using Computer Vision." Journal of the Institute of Industrial Applications Engineers Vol.7, No.4 (2019) pp.110–117. ([Download](https://www.researchgate.net/publication/338919758_A_Study_on_Tiredness_Measurement_using_Computer_Vision))
 
-4. "Chronic kidney disease prediction based on machine learning algorithms." Journal of Pathology Informatics. 2023.100189. ([Link](https://www.sciencedirect.com/science/article/pii/S2153353923000032))
+4. "Chronic kidney disease prediction based on machine learning algorithms." Journal of Pathology Informatics. 2023.100189. ([Download](https://www.sciencedirect.com/science/article/pii/S2153353923000032))
 
 5. "A Review of Machine Learning and Deep Learning Algorithms for Parkinson’s Disease Detection using Handwriting and Voice Datasets." (Submitted in Elsevier)
