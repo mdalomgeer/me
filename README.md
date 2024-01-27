@@ -26,6 +26,26 @@ Baltimore, MD 21250
 
 _“Pursuing innovation and excellence in AI for a better tomorrow.”_
 
+# Education
+
+## 🎓 Current Studies
+**Ph.D. Student in Information Systems**  
+_Graduate Research Assistant in CareResearchLab_  
+University of Maryland, Baltimore County  
+_Fall 2022 - Present_
+
+**MS in Information Systems**  
+University of Maryland, Baltimore County  
+_Fall 2022 - Present_
+
+## 🎓 Past Education
+**MSc in Electrical and Electronic Engineering**  
+University of Dhaka, Bangladesh  
+_2016 - 2017_
+
+**BSc in Electrical and Electronic Engineering**  
+University of Dhaka, Bangladesh  
+_2011 - 2016_
 
 
 # Md Alomgeer Hussein
