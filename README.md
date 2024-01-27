@@ -26,27 +26,6 @@ Baltimore, MD 21250
 
 _“Pursuing innovation and excellence in AI for a better tomorrow.”_
 
-# Education
-
-## 🎓 Current Studies
-**Ph.D. Student in Information Systems**  
-_Graduate Research Assistant in CareResearchLab_  
-University of Maryland, Baltimore County  
-_Fall 2022 - Present_
-
-**MS in Information Systems**  
-University of Maryland, Baltimore County  
-_Fall 2022 - Present_
-
-## 🎓 Past Education
-**MSc in Electrical and Electronic Engineering**  
-University of Dhaka, Bangladesh  
-_2016 - 2017_
-
-**BSc in Electrical and Electronic Engineering**  
-University of Dhaka, Bangladesh  
-_2011 - 2016_
-
 <h1 align="center">Education</h1>
 
 <hr>
@@ -59,7 +38,7 @@ _2011 - 2016_
   University of Maryland, Baltimore County<br>
   Fall 2022 - Present
 </p>
-
+<hr>
 <h3>MS in Information Systems</h3>
 <p align="justify">
   University of Maryland, Baltimore County<br>
@@ -75,13 +54,13 @@ _2011 - 2016_
   University of Dhaka, Bangladesh<br>
   2016 - 2017
 </p>
-
+<hr>
 <h3>BSc in Electrical and Electronic Engineering</h3>
 <p align="justify">
   University of Dhaka, Bangladesh<br>
   2011 - 2016
 </p>
-
+<hr>
 
 <h1 align="center"><strong>Technical Strengths</strong></h1>
 
