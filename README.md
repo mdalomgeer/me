@@ -1,4 +1,5 @@
-# Research Assistant
+# Md Alomgeer Hussein
+### Ph.D. Researcher ⎟ NLP ⎟ DL ⎟ Gen AI ⎟ Health-LLM
 
 **Address:** ITE Building, 1000 Hilltop Circle, Baltimore, MD21250  
 **Email:** [mdalomh1@umbc.edu](mailto:mdalomh1@umbc.edu)  
@@ -60,42 +61,24 @@ A Graph-Based Gaussian Naive Bayes has been proposed for the CAN Bus Intrusion D
 
 ## RELEVANT COURSES
 
-i) Deep Learning  
-ii) Data Mining  
-iii) Causal AI  
-iv) Human-Computer Interaction  
-v) Data Structures & Algorithms  
-vi) Natural Language Processing  
-vii) Consumer health informatics  
-
-## JOB EXPERIENCE
-
-- **Assistant Professor**  
-  Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh (June 2022 - Present)
-
-- **Lecturer**  
-  Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh (December 2017 - June 2022)
-
-- **Software Developer**  
-  Codecrafters International Limited (May 2017 - October 2017)
-
-## Online Tutorial
-1. [Canonical Correlation Analysis](https://sites.google.com/umbc.edu/cca/home)
-2. [Temporal Signature Detection among Different Motor Tasks](https://sites.google.com/umbc.edu/neuralengineeringandinstructio/home)
+- Deep Learning
+- Natural Language Processing
+- Consumer Health Informatics
+- Human-Computer Interaction  
+- Data Mining  
+- Causal AI    
+- Data Structures & Algorithms    
+  
 
 ## LIST OF PUBLICATIONS
 
-1. "Advancing understanding of Anomalous Melt Events over the Antarctic Sea Ice." (Targeting journal with 23 years of satellite images)
+1. "Patient-facing AI: Current Status, Challenges, and Opportunities – A Systematic Review." (Manuscript)
 
-2. "GCNIDS: Graph Convolutional Network-Based Intrusion Detection System for CAN Bus." (Processing stage for journal submission)
+2. "Exploring the Potential of Large Language Models to Support Patients in Understanding and Using Their Test
+Results." (Manuscript)
 
-3. "An Adaptive Moment Estimation Based CNN and LSTM Approach for Sign Language Recognition in Real Time for Deaf People."  
-   (Accepted in Bulletin of Electr. Eng. & Inf. Journal)
+3. "A Study on Tiredness Measurement using Computer Vision." Journal of the Institute of Industrial Applications Engineers Vol.7, No.4 (2019) pp.110–117. [Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pdfs.semanticscholar.org/a6fb/a387f4c5908f2d4a20b66c52df7e360ff05d.pdf)
 
-4. "HeteroEdge: Addressing Asymmetry in Heterogeneous Collaborative Autonomous Systems." IEEE MASS(2023).
+4. "Chronic kidney disease prediction based on machine learning algorithms." Journal of Pathology Informatics. 2023.100189 [Link](https://www.sciencedirect.com/science/article/pii/S2153353923000032)
 
-5. "A Systematic Study on Object Recognition Using Millimeter-wave Radar." Proceedings of the 9th IEEE International Conference on Smart Computing (SmartComp), Nashville, Tennessee, USA, June 2023.
-
-6. "GGNB: Graph-based Gaussian naive Bayes intrusion detection system for CAN bus." Vehicular Communications, 33, p.100442.
-
-7. "Predicting Undergraduate Admission: A Case Study in Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh." International Journal of Advanced Computer Science and Applications 11, no. 12 (2020).
+5. "A Review of Machine Learning and Deep Learning Algorithms for Parkinson’s Disease Detection using Handwriting and Voice Datasets." (Submitted in Elsevier)
