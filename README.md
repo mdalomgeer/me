@@ -47,6 +47,70 @@ _2016 - 2017_
 University of Dhaka, Bangladesh  
 _2011 - 2016_
 
+<h1 align="center">Technical Strengths</h1>
+
+<h2>Programming Languages</h2>
+<p align="justify">
+  Python, C, C++, Java, R, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language
+</p>
+
+<h2>Machine Learning Tools</h2>
+<p align="justify">
+  PyTorch, TensorFlow, Scikit-learn, Keras
+</p>
+
+<h2>Software & Tools</h2>
+<p align="justify">
+  HTML, CSS, LaTeX, LaTeXDraw, yEd-Graph Editor, GitHub, draw.io, Oracle
+</p>
+
+<h2>Simulation Tools</h2>
+<p align="justify">
+  Xilinx, NS2, Cisco Packet Tracer, Cadence Virtuoso, Pspice Proteus
+</p>
+
+<h2>Operating Systems</h2>
+<p align="justify">
+  Linux, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android
+</p>
+
+<h1 align="center">Project Experience</h1>
+
+<h2>UMBC - Advancing Understanding of Anomalous Melt Events over the Antarctic Sea Ice</h2>
+<p align="justify">
+  <b>Overview:</b> Investigate anomalous melting events in the Antarctic Sea ice using convolutional neural networks (CNN) and grid-wise matrix profile (MPF) method. <b>Duration:</b> 2000-2023 <b>Key Contributions:</b> Introduced negative max-pooling in CNN, identified spatiotemporal discord events, emphasized on dynamics of sea ice retreat.
+</p>
+
+<h2>UMBC - HeteroEdge: Addressing Asymmetry in Heterogeneous Collaborative Autonomous Systems</h2>
+<p align="justify">
+  <b>Objective:</b> Optimize surveillance systems in smart urban environments. <b>Approach:</b> Developed a self-adaptive framework for UGVs and NVIDIA Jetson devices, reducing latency and operation time.
+</p>
+
+<h2>UMBC - A Systematic Study on Object Recognition Using mmWave Radar</h2>
+<p align="justify">
+  <b>Focus:</b> Feasibility studies and experiments on mm-wave object recognition methodology. <b>Achievement:</b> Achieved 95% accuracy in identifying different objects under various conditions.
+</p>
+
+<h2>UMBC - GGNB: Graph-based Gaussian naive Bayes intrusion detection system for CAN bus</h2>
+<p align="justify">
+  <b>Innovation:</b> Proposed Graph-Based Gaussian Naive Bayes for CAN Bus Intrusion Detection. <b>Results:</b> High detection accuracy for various types of attacks.
+</p>
+
+<h1 align="center">Relevant Courses</h1>
+<p align="justify">
+  Deep Learning, Natural Language Processing, Consumer Health Informatics, Human-Computer Interaction, Data Mining, Causal AI, Data Structures & Algorithms
+</p>
+
+<h1 align="center">List of Publications</h1>
+<ol>
+  <li><p align="justify">"Patient-facing AI: Current Status, Challenges, and Opportunities – A Systematic Review." (Manuscript)</p></li>
+  <li><p align="justify">"Exploring the Potential of Large Language Models to Support Patients in Understanding and Using Their Test Results." (Manuscript)</p></li>
+  <li><p align="justify">"A Study on Tiredness Measurement using Computer Vision." Journal of the Institute of Industrial Applications Engineers Vol.7, No.4 (2019) pp.110–117. <a href="#">(Download)</a></p></li>
+  <li><p align="justify">"Chronic kidney disease prediction based on machine learning algorithms." Journal of Pathology Informatics. 2023.100189. <a href="#">(Download)</a></p></li>
+  <li><p align="justify">"A Review of Machine Learning and Deep Learning Algorithms for Parkinson’s Disease Detection using Handwriting and Voice Datasets." (Submitted in Elsevier)</p></li>
+</ol>
+
+
 
 # Md Alomgeer Hussein
 ### Ph.D. Researcher ⎟ NLP ⎟ DL ⎟ Gen AI ⎟ Health-LLM
