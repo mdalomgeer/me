@@ -131,13 +131,13 @@ The following is a list of specialized courses I have undertaken that have equip
 </p>
 
 <ul>
-  <li><p align="justify"><strong>Deep Learning:</strong> Understanding the intricacies of neural networks, backpropagation, and the concepts driving contemporary AI.</p></li>
-  <li><p align="justify"><strong>Natural Language Processing:</strong> Exploring the complex interactions between computers and human language, encompassing both speech and text processing.</p></li>
-  <li><p align="justify"><strong>Consumer Health Informatics:</strong> Examining the intersection of information technology and healthcare from a consumer perspective.</p></li>
-  <li><p align="justify"><strong>Human-Computer Interaction:</strong> Studying the principles of designing intuitive user interfaces and improving the interaction between people and computers.</p></li>
-  <li><p align="justify"><strong>Data Mining:</strong> Acquiring skills in uncovering patterns and extracting meaningful insights from large datasets.</p></li>
-  <li><p align="justify"><strong>Causal AI:</strong> Investigating advanced AI techniques for determining causation rather than mere correlation.</p></li>
-  <li><p align="justify"><strong>Data Structures & Algorithms:</strong> Gaining a deep understanding of efficient data organization, manipulation, and the algorithms that process them.</p></li>
+  <li><p align="justify"><strong>Deep Learning:</strong> </p></li>
+  <li><p align="justify"><strong>Natural Language Processing:</strong> </p></li>
+  <li><p align="justify"><strong>Consumer Health Informatics:</strong> </p></li>
+  <li><p align="justify"><strong>Human-Computer Interaction:</strong> </p></li>
+  <li><p align="justify"><strong>Data Mining:</strong> </p></li>
+  <li><p align="justify"><strong>Causal AI:</strong> </p></li>
+  <li><p align="justify"><strong>Data Structures & Algorithms:</strong> </p></li>
 </ul>
 
 <hr>
