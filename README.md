@@ -3,6 +3,34 @@
 **Address:** ITE Building, 1000 Hilltop Circle, Baltimore, MD21250  
 **Email:** [mdalomh1@umbc.edu](mailto:mdalomh1@umbc.edu)  
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=bftKphkAAAAJ&hl=en&authuser=1) | [GitHub](https://github.com/mdalomgeer) | [in](https://www.linkedin.com/in/alomgeer/) 
+## EDUCATION
+
+- **Ph.D. Student in Information Systems (G.R.A. in [CareResearchLab](https://careresearchlab.com/))**
+  University of Maryland, Baltimore County (Fall 2022 - Present)
+
+- **MS in Information Systems**
+  University of Maryland, Baltimore County (Fall 2022 - Present)
+
+- **MSc in Electrical and Electronic Engineering**
+  Bangladesh University of Engineering and Technology (2016 - 2017)
+
+- **BSc in Electrical and Electronic Engineering**
+  Bangladesh University of Engineering and Technology (2011 - 2016)
+
+## TECHNICAL STRENGTHS
+
+### Programming Languages
+
+Python, C, C++, Java, R, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language
+
+### Machine Learning Tools
+
+PyTorch, TensorFlow, Scikit-learn, Keras
+
+### Software & Tools
+
+HTML, CSS, LaTeX, LaTeXDraw, yEd-Graph Editor, GitHub, draw.io, Oracle
+
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
