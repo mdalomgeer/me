@@ -83,41 +83,41 @@ _2011 - 2016_
 </p>
 
 
-<h1 align="center">Technical Strengths</h1>
+<h1 align="center"><strong>Technical Strengths</strong></h1>
 
 <hr>
 
-<h2>Programming Languages</h2>
+<h2><strong>Programming Languages</strong></h2>
 <p align="justify">
-  Python, C, C++, Java, R, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language
+  <strong>Python, C, C++, Java, R, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language</strong>
 </p>
 
 <hr>
 
-<h2>Machine Learning Tools</h2>
+<h2><strong>Machine Learning Tools</strong></h2>
 <p align="justify">
-  PyTorch, TensorFlow, Scikit-learn, Keras
+  <strong>PyTorch, TensorFlow, Scikit-learn, Keras</strong>
 </p>
 
 <hr>
 
-<h2>Software & Tools</h2>
+<h2><strong>Software & Tools</strong></h2>
 <p align="justify">
-  HTML, CSS, LaTeX, LaTeXDraw, yEd-Graph Editor, GitHub, draw.io, Oracle
+  <strong>HTML, CSS, LaTeX, LaTeXDraw, yEd-Graph Editor, GitHub, draw.io, Oracle</strong>
 </p>
 
 <hr>
 
-<h2>Simulation Tools</h2>
+<h2><strong>Simulation Tools</strong></h2>
 <p align="justify">
-  Xilinx, NS2, Cisco Packet Tracer, Cadence Virtuoso, Pspice Proteus
+  <strong>Xilinx, NS2, Cisco Packet Tracer, Cadence Virtuoso, Pspice Proteus</strong>
 </p>
 
 <hr>
 
-<h2>Operating Systems</h2>
+<h2><strong>Operating Systems</strong></h2>
 <p align="justify">
-  Linux, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android
+  <strong>Linux, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android</strong>
 </p>
 
 
