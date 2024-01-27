@@ -127,17 +127,17 @@ _“Pursuing innovation and excellence in AI for a better tomorrow.”_
 <h1 align="center">Relevant Courses</h1>
 
 <p align="justify">
-The following is a list of specialized courses I have undertaken that have equipped me with a solid foundation and advanced knowledge in various aspects of computer science and data analysis:
+
 </p>
 
 <ul>
-  <li><p align="justify"><strong>Deep Learning:</strong> </p></li>
-  <li><p align="justify"><strong>Natural Language Processing:</strong> </p></li>
-  <li><p align="justify"><strong>Consumer Health Informatics:</strong> </p></li>
-  <li><p align="justify"><strong>Human-Computer Interaction:</strong> </p></li>
-  <li><p align="justify"><strong>Data Mining:</strong> </p></li>
-  <li><p align="justify"><strong>Causal AI:</strong> </p></li>
-  <li><p align="justify"><strong>Data Structures & Algorithms:</strong> </p></li>
+  <li><p align="justify"><strong>Deep Learning</strong> </p></li>
+  <li><p align="justify"><strong>Natural Language Processing</strong> </p></li>
+  <li><p align="justify"><strong>Consumer Health Informatics</strong> </p></li>
+  <li><p align="justify"><strong>Human-Computer Interaction</strong> </p></li>
+  <li><p align="justify"><strong>Data Mining</strong> </p></li>
+  <li><p align="justify"><strong>Causal AI</strong> </p></li>
+  <li><p align="justify"><strong>Computational Methods for IS Research</strong> </p></li>
 </ul>
 
 <hr>
