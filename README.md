@@ -34,8 +34,8 @@ _“Pursuing innovation and excellence in AI for a better tomorrow.”_
 
 <h3>Ph.D. Student in Information Systems</h3>
 <p align="justify">
-  Graduate Research Assistant in CareResearchLab<br>
-  University of Maryland, Baltimore County<br>
+  Graduate Research Assistant in [CareResearchLab](https://careresearchlab.com/)
+  University of Maryland, Baltimore County.
   Fall 2022 - Present
 </p>
 
