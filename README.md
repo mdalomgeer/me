@@ -89,35 +89,35 @@ _2011 - 2016_
 
 <h2><strong>Programming Languages</strong></h2>
 <p align="justify">
-  <strong>Python, C, C++, Java, R, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language</strong>
+  Python, C, C++, Java, R, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language
 </p>
 
 <hr>
 
 <h2><strong>Machine Learning Tools</strong></h2>
 <p align="justify">
-  <strong>PyTorch, TensorFlow, Scikit-learn, Keras</strong>
+  PyTorch, TensorFlow, Scikit-learn, Keras<
 </p>
 
 <hr>
 
 <h2><strong>Software & Tools</strong></h2>
 <p align="justify">
-  <strong>HTML, CSS, LaTeX, LaTeXDraw, yEd-Graph Editor, GitHub, draw.io, Oracle</strong>
+  HTML, CSS, LaTeX, LaTeXDraw, yEd-Graph Editor, GitHub, draw.io, Oracle
 </p>
 
 <hr>
 
 <h2><strong>Simulation Tools</strong></h2>
 <p align="justify">
-  <strong>Xilinx, NS2, Cisco Packet Tracer, Cadence Virtuoso, Pspice Proteus</strong>
+  Xilinx, NS2, Cisco Packet Tracer, Cadence Virtuoso, Pspice Proteus
 </p>
 
 <hr>
 
 <h2><strong>Operating Systems</strong></h2>
 <p align="justify">
-  <strong>Linux, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android</strong>
+  Linux, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android
 </p>
 
 
