@@ -85,30 +85,43 @@ _2011 - 2016_
 
 <h1 align="center">Technical Strengths</h1>
 
+<hr>
+
 <h2>Programming Languages</h2>
 <p align="justify">
   Python, C, C++, Java, R, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language
 </p>
+
+<hr>
 
 <h2>Machine Learning Tools</h2>
 <p align="justify">
   PyTorch, TensorFlow, Scikit-learn, Keras
 </p>
 
+<hr>
+
 <h2>Software & Tools</h2>
 <p align="justify">
   HTML, CSS, LaTeX, LaTeXDraw, yEd-Graph Editor, GitHub, draw.io, Oracle
 </p>
+
+<hr>
 
 <h2>Simulation Tools</h2>
 <p align="justify">
   Xilinx, NS2, Cisco Packet Tracer, Cadence Virtuoso, Pspice Proteus
 </p>
 
+<hr>
+
 <h2>Operating Systems</h2>
 <p align="justify">
   Linux, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android
 </p>
+
+
+
 
 <h1 align="center">Project Experience</h1>
 
