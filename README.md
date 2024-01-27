@@ -38,7 +38,7 @@ _“Pursuing innovation and excellence in AI for a better tomorrow.”_
   University of Maryland, Baltimore County<br>
   Fall 2022 - Present
 </p>
-<hr>
+
 <h3>MS in Information Systems</h3>
 <p align="justify">
   University of Maryland, Baltimore County<br>
@@ -54,7 +54,7 @@ _“Pursuing innovation and excellence in AI for a better tomorrow.”_
   University of Dhaka, Bangladesh<br>
   2016 - 2017
 </p>
-<hr>
+
 <h3>BSc in Electrical and Electronic Engineering</h3>
 <p align="justify">
   University of Dhaka, Bangladesh<br>
