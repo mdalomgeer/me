@@ -1,3 +1,33 @@
+# Welcome to My Portfolio
+
+## Md Alomgeer Hussein, Ph.D. Researcher
+_Specializing in Natural Language Processing (NLP), Deep Learning (DL), General AI, and Health Language Models (Health-LLM)_
+
+---
+
+### 🏢 Address
+ITE Building,  
+1000 Hilltop Circle,  
+Baltimore, MD 21250
+
+### 📧 Email
+[mdalomh1@umbc.edu](mailto:mdalomh1@umbc.edu)
+
+### 🔗 Profiles
+- [Google Scholar](#)
+- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/)
+
+---
+
+🌟 Explore my work and collaborations in the fascinating fields of AI and Machine Learning. Dive into my research projects, publications, and more!
+
+---
+
+_“Pursuing innovation and excellence in AI for a better tomorrow.”_
+
+
+
 # Md Alomgeer Hussein
 ### Ph.D. Researcher ⎟ NLP ⎟ DL ⎟ Gen AI ⎟ Health-LLM
 
