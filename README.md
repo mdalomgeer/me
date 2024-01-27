@@ -60,15 +60,13 @@ A Graph-Based Gaussian Naive Bayes has been proposed for the CAN Bus Intrusion D
 
 ## RELEVANT COURSES
 
-i) Causal AI and Machine Learning  
-ii) Artificial Intelligence  
-iii) Deep Learning  
-iv) Operating Systems  
+i) Deep Learning  
+ii) Data Mining  
+iii) Causal AI  
+iv) Human-Computer Interaction  
 v) Data Structures & Algorithms  
-vi) Data Mining  
-vii) Statistical Learning for Data Analysis  
-viii) Advanced Computer Architecture  
-ix) Compiler
+vi) Natural Language Processing  
+vii) Consumer health informatics  
 
 ## JOB EXPERIENCE
 
