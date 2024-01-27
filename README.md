@@ -14,9 +14,9 @@ Baltimore, MD 21250
 [mdalomh1@umbc.edu](mailto:mdalomh1@umbc.edu)
 
 ### 🔗 Profiles
-- [Google Scholar](#)
-- [GitHub](https://github.com/)
-- [LinkedIn](https://www.linkedin.com/)
+- [Google Scholar](https://scholar.google.com/citations?user=bftKphkAAAAJ&hl=en&authuser=1)
+- [GitHub](https://github.com/mdalomgeer)
+- [LinkedIn](https://www.linkedin.com/in/alomgeer/)
 
 ---
 
@@ -46,6 +46,42 @@ _2016 - 2017_
 **BSc in Electrical and Electronic Engineering**  
 University of Dhaka, Bangladesh  
 _2011 - 2016_
+
+<h1 align="center">Education</h1>
+
+<hr>
+
+<h2>🎓 Current Studies</h2>
+
+<h3>Ph.D. Student in Information Systems</h3>
+<p align="justify">
+  Graduate Research Assistant in CareResearchLab<br>
+  University of Maryland, Baltimore County<br>
+  Fall 2022 - Present
+</p>
+
+<h3>MS in Information Systems</h3>
+<p align="justify">
+  University of Maryland, Baltimore County<br>
+  Fall 2022 - Present
+</p>
+
+<hr>
+
+<h2>🎓 Past Education</h2>
+
+<h3>MSc in Electrical and Electronic Engineering</h3>
+<p align="justify">
+  University of Dhaka, Bangladesh<br>
+  2016 - 2017
+</p>
+
+<h3>BSc in Electrical and Electronic Engineering</h3>
+<p align="justify">
+  University of Dhaka, Bangladesh<br>
+  2011 - 2016
+</p>
+
 
 <h1 align="center">Technical Strengths</h1>
 
