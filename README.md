@@ -125,16 +125,28 @@ _“Pursuing innovation and excellence in AI for a better tomorrow.”_
 </p>
 <hr>
 <h1 align="center">Relevant Courses</h1>
-<p align="justify">
-  - Deep Learning 
-  - Natural Language Processing
-  - Consumer Health Informatics
-  - Human-Computer Interaction
-  - Data Mining
-  - Causal AI
-  - Data Structures & Algorithms
-</p>
 <hr>
+<p align="justify">
+
+
+The following is a list of specialized courses I have undertaken that have equipped me with a solid foundation and advanced knowledge in various aspects of computer science and data analysis:
+
+- **Deep Learning**: Delving into neural networks, backpropagation, and the concepts that drive contemporary AI.
+  
+- **Natural Language Processing**: Studying the interaction between computers and human language, including speech and text processing.
+  
+- **Consumer Health Informatics**: Exploring the role of information technology in healthcare from a consumer perspective.
+  
+- **Human-Computer Interaction**: Understanding the design and use of computer technology, focusing on the interfaces between people and computers.
+  
+- **Data Mining**: Gaining insights into the process of discovering patterns and relationships in large datasets.
+  
+- **Causal AI**: Investigating the use of AI for understanding and inferring causation rather than just correlations.
+  
+- **Data Structures & Algorithms**: Mastering the fundamentals of data organization, manipulation, and the algorithms that operate on them.
+
+</p>
+
 <h1 align="center">List of Publications</h1>
 <hr>
 <ol>
