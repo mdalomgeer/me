@@ -1,7 +1,7 @@
 ### Welcome to My Portfolio
 
 ## Md Alomgeer Hussein, Ph.D. Researcher
-_Specializing in Natural Language Processing (NLP), Deep Learning (DL), Generative AI, and Health-Large Language Models (Health-LLM)_
+Ph.D. Researcher ⎟ NLP ⎟ DL ⎟ Gen AI ⎟ Health-LLM
 
 ---
 
